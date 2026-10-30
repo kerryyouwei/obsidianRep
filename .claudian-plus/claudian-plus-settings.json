@@ -1,0 +1,254 @@
+{
+  "userName": "",
+  "permissionMode": "normal",
+  "model": "ark-code-latest",
+  "thinkingBudget": "off",
+  "effortLevel": "high",
+  "serviceTier": "default",
+  "enableAutoTitleGeneration": true,
+  "titleGenerationModel": "",
+  "excludedTags": [],
+  "mediaFolder": "",
+  "systemPrompt": "",
+  "persistentExternalContextPaths": [],
+  "sharedEnvironmentVariables": "",
+  "envSnippets": [],
+  "customContextLimits": {},
+  "customModelAliases": {},
+  "keyboardNavigation": {
+    "scrollUpKey": "w",
+    "scrollDownKey": "s",
+    "focusInputKey": "i"
+  },
+  "requireCommandOrControlEnterToSend": false,
+  "enableLivePreviewComposer": true,
+  "locale": "zh-CN",
+  "providerConfigs": {
+    "antigravity": {
+      "autoApproveTools": true,
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "diagnosticsRefreshToken": 0,
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "lastFailure": null,
+      "manualModelId": "",
+      "timeoutMs": 120000
+    },
+    "claude": {
+      "enabled": true,
+      "safeMode": "acceptEdits",
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "loadUserSettings": true,
+      "enableChrome": false,
+      "enableBangBash": false,
+      "customModels": "",
+      "lastModel": "haiku",
+      "modelEnvironmentType": "",
+      "titleModelEnvironmentType": "",
+      "environmentVariables": "",
+      "environmentHash": "",
+      "thirdPartyServices": [],
+      "defaultThirdPartyServiceId": ""
+    },
+    "codex": {
+      "enabled": true,
+      "safeMode": "workspace-write",
+      "cliPath": "",
+      "cliPathsByHost": {
+        "device:2282b7d3-bf4c-4f5b-91b0-ffe0082afd54": "C:\\Users\\admin\\AppData\\Local\\OpenAI\\Codex\\bin\\0ab0e7a8f3779036\\codex.exe"
+      },
+      "customModels": "",
+      "discoveredModels": [
+        {
+          "model": "ark-code-latest",
+          "displayName": "Ark Code Latest",
+          "description": "Ark Code Latest",
+          "supportedReasoningEfforts": [
+            {
+              "value": "low",
+              "description": "Fast responses with lighter reasoning"
+            },
+            {
+              "value": "medium",
+              "description": "Balances speed and reasoning depth for everyday tasks"
+            },
+            {
+              "value": "high",
+              "description": "Greater reasoning depth for complex problems"
+            }
+          ],
+          "defaultReasoningEffort": "high",
+          "serviceTiers": [],
+          "defaultServiceTier": null,
+          "inputModalities": [
+            "text"
+          ],
+          "isDefault": true
+        },
+        {
+          "model": "deepseek-v4-pro-ga-260813",
+          "displayName": "deepseek-v4-pro-ga-260813",
+          "description": "deepseek-v4-pro-ga-260813",
+          "supportedReasoningEfforts": [
+            {
+              "value": "medium",
+              "description": "Balances speed and reasoning depth for everyday tasks"
+            },
+            {
+              "value": "high",
+              "description": "Greater reasoning depth for complex problems"
+            },
+            {
+              "value": "xhigh",
+              "description": "Extra high reasoning depth for complex problems"
+            }
+          ],
+          "defaultReasoningEffort": "high",
+          "serviceTiers": [],
+          "defaultServiceTier": null,
+          "inputModalities": [
+            "text",
+            "image"
+          ],
+          "isDefault": false
+        },
+        {
+          "model": "glm-5-3-flash-260828",
+          "displayName": "glm-5-3-flash-260828",
+          "description": "glm-5-3-flash-260828",
+          "supportedReasoningEfforts": [
+            {
+              "value": "medium",
+              "description": "Balances speed and reasoning depth for everyday tasks"
+            },
+            {
+              "value": "high",
+              "description": "Greater reasoning depth for complex problems"
+            },
+            {
+              "value": "xhigh",
+              "description": "Extra high reasoning depth for complex problems"
+            }
+          ],
+          "defaultReasoningEffort": "high",
+          "serviceTiers": [],
+          "defaultServiceTier": null,
+          "inputModalities": [
+            "text",
+            "image"
+          ],
+          "isDefault": false
+        }
+      ],
+      "modelAliases": {},
+      "visibleModels": null,
+      "reasoningSummary": "detailed",
+      "environmentVariables": "",
+      "environmentHash": "",
+      "catalogTimestamp": 1793348790238,
+      "catalogFingerprint": "1:0beb5edd0158c95610a0b7658d5b2640ea78620e70169ed9f2fdc0b3f4da5f7c",
+      "installationMethodsByHost": {},
+      "wslDistroOverridesByHost": {}
+    },
+    "kimi": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "visibleModels": []
+    },
+    "opencode": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "OPENCODE_ENABLE_EXA=1",
+      "modelAliases": {},
+      "preferredThinkingByModel": {},
+      "selectedMode": "",
+      "thinkingOptionsByModel": {},
+      "visibleModels": []
+    },
+    "pi": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "discoveredModels": [],
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "preferredThinkingByModel": {},
+      "toolMode": "all",
+      "visibleModels": []
+    },
+    "dsh": {
+      "enabled": false,
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "environmentVariables": "",
+      "environmentHash": "",
+      "startupTimeoutMs": 90000,
+      "models": []
+    }
+  },
+  "defaultChatProviderId": "",
+  "settingsProvider": "codex",
+  "savedProviderModel": {
+    "codex": "ark-code-latest"
+  },
+  "savedProviderEffort": {
+    "codex": "high"
+  },
+  "savedProviderServiceTier": {},
+  "savedProviderThinkingBudget": {},
+  "savedProviderPermissionMode": {
+    "codex": "normal"
+  },
+  "pendingProviderSessionInvalidations": {},
+  "lastCustomModel": "",
+  "maxTabs": 3,
+  "enableAutoScroll": true,
+  "outlineSide": "left",
+  "deferMathRenderingDuringStreaming": true,
+  "expandFileEditsByDefault": false,
+  "chatViewPlacement": "right-sidebar",
+  "chatHomeView": "chat",
+  "settingsLastCategory": "general",
+  "hiddenProviderCommands": {},
+  "blobFollowPointer": true,
+  "generativeUiEnabled": true,
+  "uiInsertToNoteEnabled": false,
+  "memoryEnabled": true,
+  "memoryFilePath": ".claudian-plus/memory.md",
+  "memoryMaxInjectionChars": 1500,
+  "memoryMaxInjectionTokens": 1200,
+  "memoryMaxGlobalInjectionChars": 350,
+  "memoryMaxProjectInjectionChars": 500,
+  "consciousnessEnabled": false,
+  "consciousnessAutoMemory": false,
+  "dreamIntervalMs": 86400000,
+  "memoryEpisodeRetentionDays": 90,
+  "auxiliarySavingMode": "standard",
+  "backgroundRequestDailyLimit": null,
+  "ambientContextEnabled": true,
+  "ambientMaxContentChars": 32000,
+  "ambientMaxOutlineEntries": 50,
+  "ambientMaxLinks": 25,
+  "ambientFileModes": {
+    "原始资料 raw/1-RAG技术与应用.md": "ignored"
+  },
+  "welcomeAnimationMode": "lite",
+  "runtimeState": {
+    "blob.onboardingSeen": "1",
+    "deviceSettingsKey": "device:2282b7d3-bf4c-4f5b-91b0-ffe0082afd54"
+  },
+  "backgroundRequestUsage": {
+    "day": "2026-10-30",
+    "count": 1
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "4644883b93f4854f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8850ca1e847b3265",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dec3419a64b0fc94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "原始资料 raw/全网最全，50分钟全面掌握新版Codex～【附完整文档】.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "全网最全，50分钟全面掌握新版Codex～【附完整文档】"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10f4a5a96661063f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ece4a7e73cd9761",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3eb52e4aade80a25",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9711c01a7522184c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "df40afeaee62c6a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.8333435058594
+  },
+  "right": {
+    "id": "b49493b0b3e87592",
+    "type": "split",
+    "children": [
+      {
+        "id": "8015e79dca6cee93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "845900db998a8af0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "43bd78e2aff0d20d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "e2c92645482d8a7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b16e7482460d77ee",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "1adfdfbaee1e5c2f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "9a5c2915a0ffbd44",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1793322674337-aas6a94",
+                      "conversationId": null,
+                      "draftModel": "openai-codex/glm-5-3-flash-260828",
+                      "providerId": "codex"
+                    }
+                  ],
+                  "activeTabId": "tab-1793322674337-aas6a94"
+                }
+              },
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "b69621819ee81bee",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-plus-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian Plus"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 446.1666259765625
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "docx-importer:Import DOCX": false,
+      "docx-importer:Export note as DOCX": false,
+      "claudian-plus:Open Claudian Plus": false,
+      "realclaudian:Open Claudian": false
+    }
+  },
+  "active": "dec3419a64b0fc94",
+  "lastOpenFiles": [
+    "原始资料 raw/已摄入/Codex联动Obsidian，搭建卡帕西同款知识库，手把手教程.md",
+    "原始资料 raw/全网最全，50分钟全面掌握新版Codex～【附完整文档】.md",
+    "原始资料 raw/已摄入/全网最全，50分钟全面掌握新版Codex～【附完整文档】.md",
+    "原始资料 raw/已摄入/1-RAG技术与应用.md",
+    "知识库 wiki/概念 concepts/多模态RAG.md",
+    "知识库 wiki/概念 concepts/Skill系统.md",
+    "知识库 wiki/概念 concepts/自生长知识库.md",
+    "知识库 wiki/概念 concepts/动态防护栏.md",
+    "知识库 wiki/概念 concepts/知识迭代系统.md",
+    "知识库 wiki/概念 concepts/切片策略 Chunking.md",
+    "知识库 wiki/概念 concepts/嵌入模型 Embedding.md",
+    "原始资料 raw/1-RAG技术与应用.md",
+    "知识库 wiki/概念 concepts/混合检索.md",
+    "知识库 wiki/概念 concepts/检索增强生成 RAG.md",
+    "知识库 wiki/实体 entities/FAISS.md",
+    "知识库 wiki/实体 entities/Codex.md",
+    "知识库 wiki/实体 entities/LangChain.md",
+    "知识库 wiki/实体 entities/Xuan_酱.md",
+    "知识库 wiki/实体 entities/Obsidian.md",
+    "知识库 wiki/实体 entities/CLIP.md",
+    "知识库 wiki/实体 entities/BGE-M3.md",
+    "知识库 wiki/实体 entities/安德烈·卡帕西 Andrej Karpathy.md",
+    "知识库 wiki/资料摘要 sources/全网最全，50分钟全面掌握新版Codex.md",
+    "知识库 wiki/资料摘要 sources/Codex联动Obsidian搭建卡帕西同款知识库.md",
+    "知识库 wiki/资料摘要 sources/RAG技术与应用.md",
+    "原始资料 raw/1-RAG技术与应用.pdf",
+    "原始资料 raw/Me at the zoo.md",
+    "YouTube转Obsidian.cmd",
+    "YouTube转Obsidian.ps1",
+    "报告 reports",
+    "知识库 wiki/资料摘要 sources",
+    "知识库 wiki/概念 concepts",
+    "知识库 wiki/实体 entities",
+    "知识库 wiki/分析 analyses",
+    "知识库 wiki",
+    "原始资料 raw/附件 assets"
+  ]
+}
