@@ -89,9 +89,9 @@
           "isDefault": true
         },
         {
-          "model": "deepseek-v4-pro-ga-260813",
-          "displayName": "deepseek-v4-pro-ga-260813",
-          "description": "deepseek-v4-pro-ga-260813",
+          "model": "glm-5-3-flash-260828",
+          "displayName": "glm5.3",
+          "description": "glm5.3",
           "supportedReasoningEfforts": [
             {
               "value": "medium",
@@ -116,9 +116,36 @@
           "isDefault": false
         },
         {
-          "model": "glm-5-3-flash-260828",
-          "displayName": "glm-5-3-flash-260828",
-          "description": "glm-5-3-flash-260828",
+          "model": "deepseek-v4-pro-260425",
+          "displayName": "deepseek-v4-pro-260425",
+          "description": "deepseek-v4-pro-260425",
+          "supportedReasoningEfforts": [
+            {
+              "value": "medium",
+              "description": "Balances speed and reasoning depth for everyday tasks"
+            },
+            {
+              "value": "high",
+              "description": "Greater reasoning depth for complex problems"
+            },
+            {
+              "value": "xhigh",
+              "description": "Extra high reasoning depth for complex problems"
+            }
+          ],
+          "defaultReasoningEffort": "high",
+          "serviceTiers": [],
+          "defaultServiceTier": null,
+          "inputModalities": [
+            "text",
+            "image"
+          ],
+          "isDefault": false
+        },
+        {
+          "model": "qwen3-32b-20250429",
+          "displayName": "qwen3-32b-20250429",
+          "description": "qwen3-32b-20250429",
           "supportedReasoningEfforts": [
             {
               "value": "medium",
@@ -148,8 +175,8 @@
       "reasoningSummary": "detailed",
       "environmentVariables": "",
       "environmentHash": "",
-      "catalogTimestamp": 1793348790238,
-      "catalogFingerprint": "1:0beb5edd0158c95610a0b7658d5b2640ea78620e70169ed9f2fdc0b3f4da5f7c",
+      "catalogTimestamp": 1793496079731,
+      "catalogFingerprint": "1:2eb976ea72993dd5dceca2a58c92925cff3908226afd9b1288b3c3607cac7eeb",
       "installationMethodsByHost": {},
       "wslDistroOverridesByHost": {}
     },
@@ -248,7 +275,7 @@
     "deviceSettingsKey": "device:2282b7d3-bf4c-4f5b-91b0-ffe0082afd54"
   },
   "backgroundRequestUsage": {
-    "day": "2026-10-30",
+    "day": "2026-10-31",
     "count": 1
   }
 }

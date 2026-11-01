@@ -1,0 +1,8 @@
+{
+  "serverUrl": "http://127.0.0.1:5050",
+  "whisperModel": "small",
+  "noteFolder": "Douyin",
+  "attachmentFolder": "attachments/douyin",
+  "embedVideo": true,
+  "openNoteAfterCreate": true
+}

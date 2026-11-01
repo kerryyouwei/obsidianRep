@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8850ca1e847b3265",
+        "id": "fa85be6f244c0e95",
         "type": "tabs",
         "children": [
           {
-            "id": "dec3419a64b0fc94",
+            "id": "703f314d4222dbb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "原始资料 raw/全网最全，50分钟全面掌握新版Codex～【附完整文档】.md",
+                "file": "原始资料 raw/【2026年Remotion新手教程】用Claude+Remotion 一次大量產出 100 支高質感動畫（免寫程式）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "全网最全，50分钟全面掌握新版Codex～【附完整文档】"
+              "title": "【2026年Remotion新手教程】用Claude+Remotion 一次大量產出 100 支高質感動畫（免寫程式）"
             }
           }
         ]
@@ -186,8 +186,8 @@
                   "activeTabId": "tab-1793322674337-aas6a94"
                 }
               },
-              "icon": "bot",
-              "title": "Claudian"
+              "icon": "lucide-ghost",
+              "title": "claudian-view"
             }
           },
           {
@@ -216,49 +216,58 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "docx-importer:Import DOCX": false,
-      "docx-importer:Export note as DOCX": false,
       "claudian-plus:Open Claudian Plus": false,
-      "realclaudian:Open Claudian": false
+      "realclaudian:Open Claudian": false,
+      "douyin-capture:Douyin Capture：从链接创建笔记": false
     }
   },
-  "active": "dec3419a64b0fc94",
+  "active": "703f314d4222dbb2",
   "lastOpenFiles": [
-    "原始资料 raw/已摄入/Codex联动Obsidian，搭建卡帕西同款知识库，手把手教程.md",
-    "原始资料 raw/全网最全，50分钟全面掌握新版Codex～【附完整文档】.md",
-    "原始资料 raw/已摄入/全网最全，50分钟全面掌握新版Codex～【附完整文档】.md",
-    "原始资料 raw/已摄入/1-RAG技术与应用.md",
-    "知识库 wiki/概念 concepts/多模态RAG.md",
-    "知识库 wiki/概念 concepts/Skill系统.md",
-    "知识库 wiki/概念 concepts/自生长知识库.md",
-    "知识库 wiki/概念 concepts/动态防护栏.md",
-    "知识库 wiki/概念 concepts/知识迭代系统.md",
-    "知识库 wiki/概念 concepts/切片策略 Chunking.md",
-    "知识库 wiki/概念 concepts/嵌入模型 Embedding.md",
-    "原始资料 raw/1-RAG技术与应用.md",
-    "知识库 wiki/概念 concepts/混合检索.md",
-    "知识库 wiki/概念 concepts/检索增强生成 RAG.md",
-    "知识库 wiki/实体 entities/FAISS.md",
-    "知识库 wiki/实体 entities/Codex.md",
-    "知识库 wiki/实体 entities/LangChain.md",
-    "知识库 wiki/实体 entities/Xuan_酱.md",
-    "知识库 wiki/实体 entities/Obsidian.md",
-    "知识库 wiki/实体 entities/CLIP.md",
-    "知识库 wiki/实体 entities/BGE-M3.md",
-    "知识库 wiki/实体 entities/安德烈·卡帕西 Andrej Karpathy.md",
-    "知识库 wiki/资料摘要 sources/全网最全，50分钟全面掌握新版Codex.md",
-    "知识库 wiki/资料摘要 sources/Codex联动Obsidian搭建卡帕西同款知识库.md",
-    "知识库 wiki/资料摘要 sources/RAG技术与应用.md",
-    "原始资料 raw/1-RAG技术与应用.pdf",
-    "原始资料 raw/Me at the zoo.md",
-    "YouTube转Obsidian.cmd",
-    "YouTube转Obsidian.ps1",
-    "报告 reports",
-    "知识库 wiki/资料摘要 sources",
-    "知识库 wiki/概念 concepts",
-    "知识库 wiki/实体 entities",
-    "知识库 wiki/分析 analyses",
-    "知识库 wiki",
-    "原始资料 raw/附件 assets"
+    "原始资料 raw/【2026年Remotion新手教程】用Claude+Remotion 一次大量產出 100 支高質感動畫（免寫程式）.md",
+    "Douyin/2026-10-31-小婉瑶🌱🌱🌱-时间好不经用，抬眼已是半生，曾经以为老去是很遥远的事情，后来才发现年轻已是很久以前的事了，那个看.md",
+    "Douyin/2026-10-31-珍珠-好好珍惜眼前这个小小的背影吧，因为你真的不敢想象，十几年后，家里突然变得干净又整洁，没有散落的玩.md",
+    "原始资料 raw/零基礎30分鐘學會Codex 95%功能！【福利贈送】 [dMiV7Yx9yk4].md",
+    "attachments/douyin/7689767226110846058/video.mp4",
+    "attachments/douyin/7689767226110846058",
+    "attachments/douyin/7690210359881735409/video.mp4",
+    "attachments/douyin/7690210359881735409",
+    "Douyin/2026-10-31-珍珠-好好珍惜眼前这个小小的背影吧，因为你真的不敢想象，十几年后，家里突然变得干净又整洁，没有散落的玩-2.md",
+    "原始资料 raw/Obsidian  8 个进阶用法  全网最细图文详解.md",
+    "Douyin",
+    "attachments/douyin",
+    "attachments",
+    "原始资料 raw/horizon-2026-10-31-en.md",
+    "报告 reports/2026-10-30 摄入报告.md",
+    "horizon/docs/_posts/2026-10-31-summary-en.md",
+    "horizon/docs/_posts",
+    "horizon/src/ai/prompting/__pycache__/deduplication.cpython-313.pyc",
+    "horizon/data/summaries",
+    "horizon/skills/horizon/references/pipeline.md",
+    "horizon/skills/horizon/references/automation.md",
+    "horizon/skills/horizon/SKILL.md",
+    "horizon/src/mcp/integration.md",
+    "horizon/src/mcp/README.md",
+    "horizon/profiles/tech-blog/match.md",
+    "horizon/profiles/tech-blog/enrichment.md",
+    "horizon/profiles/tech-blog/analysis.md",
+    "horizon/profiles/tech-news/match.md",
+    "horizon/profiles/tech-news/enrichment.md",
+    "horizon/profiles/tech-news/analysis.md",
+    "horizon/profiles/ai-creator/match.md",
+    "horizon/profiles/ai-creator/enrichment.md",
+    "horizon/profiles/ai-creator/analysis.md",
+    "horizon/profiles/finance-news/match.md",
+    "horizon/profiles/finance-news/enrichment.md",
+    "horizon/profiles/finance-news/analysis.md",
+    "horizon/docs/assets/wechat.jpg",
+    "horizon/docs/assets/wechat-preview.jpg",
+    "horizon/docs/assets/terminal_log.png",
+    "horizon/docs/assets/qq-group.png",
+    "horizon/docs/assets/overview_zh.png",
+    "horizon/docs/assets/overview_en.png",
+    "horizon/docs/assets/one_news_zh.png",
+    "horizon/docs/assets/one_news_en.png",
+    "horizon/docs/assets/ofoxai-logo.svg",
+    "horizon/docs/assets/modelflare-logo.png"
   ]
 }
